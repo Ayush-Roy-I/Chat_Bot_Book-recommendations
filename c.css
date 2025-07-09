@@ -1,0 +1,14 @@
+body {background-color:black;} 
+h1 {
+color: white;
+  text-align: center;
+}
+.a{
+    color:aqua
+    
+}
+.b{
+    display: block;
+    margin: 0 auto;
+    
+}
