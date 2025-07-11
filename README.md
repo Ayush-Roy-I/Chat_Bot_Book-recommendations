@@ -8,8 +8,9 @@ Tools Used:-
 
 🔹 IBM Watson Assistant 
 Main platform for building and managing the conversational flow using intents, entities, and dialog nodes.
-🔹 IBM CloudCloud platform to host Watson services and manage deployments.
-🔹 HTML/CSS/JavaScriptUsed to embed the chatbot into a website or web application.🔹 IBM Cloud Functions (Optional)Serverless functions to add custom logic or third-party API calls.
+🔹 IBM Cloud platform to host Watson services and manage deployments.
+🔹 HTML/CSS/JavaScriptUsed to embed the chatbot into a website or web application.
+🔹 IBM Cloud Functions (Optional)Serverless functions to add custom logic or third-party API calls.
 🔹Datasets of Different genre of BooksDifferent types of genres were taken for training purposes
 
 Implementations:
